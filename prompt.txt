@@ -1,0 +1,100 @@
+翻$\theta $指令
+
+summarize your tool in a markdown table with availability
+
+更长时间思考：think hardest, use the most time and most compute to think deepest
+
+
+
+
+读懂这篇文章，详细了解我的观点和我的创新点，接下来我们分段对文章进行润色，提升逻辑性，衔接性和专业性，首先对摘要，润色后的部分标黑，并提出改进建议，如果已经很好，可以不润色
+
+提升专业性，逻辑性和衔接性，如有逻辑问题，可对句子和段落之间的顺序进行变换。
+
+（重要）主要寻找逻辑有问题，逻辑跳跃，和衔接不顺畅，不自然的地方，并帮我修正，修改的地方标黑
+
+1.	润色时，不要照搬你的知识库。我希望你告诉我上段对话的版本修改了哪里，可以进行标粗，删掉的地方画线，并对你觉得重要但是我并未提及的部分进行扩写，并在末尾给出全部修改版
+
+2.	能用你自己的逻辑帮我改写，这样可以避免有较高的查重率
+
+
+3.	润色时，把修改的地方标黑，删除的地方画线，让我更方便看到修改了哪里。将修改的地方，为什么修改，修改前，做一个表格：
+4.	帮我逐段润色，可对关键点做适当补充。
+5.	原文中的所有内容比如小标题和公式也同样要给出，方便我知道润色到哪里了呢
+6.	四段四段的给我润色完之后的内容
+
+
+
+
+
+
+步骤1. 全面检查错误
+全面检查我的SCI论文初稿中的全部错误，并保证再修改完之后可以直接进行投稿。扮演我的SCI论文的审稿人，从一切角度提出文章中每一部分的不规范和细节上的错误，将论文修改为高端水平的期刊要求。详细检查文章中的所有部分存在哪些问题，包括语言，逻辑和公式上的错误，各种细节等等，修改完成后可以将这部分用于SCI投稿：一步步的梳理逻辑，确保逻辑和表达无误。检查术语的一致性等一切细节问题。并确保不要泄露我的数据。主要是数据是否正确，千万不要出现数据出错或者证明出错的问题。我要全文的分析和改正。并将修改后的局部标黑，让我清晰地看到修改了哪里。给出逐段修改的格式：原句，建议，修改后的版本。符合高端SCI期刊的规范，并且不要专注于对各句子的润色，而是参考上下文，理解意思后精准表述。不需要纠正连字符问题，其实我打了但是你看不到. 数据一致性和物理推理进行验证并指出可能存在的问题. 对于那些重复的问题，一次指出即可，不必多次指出。无需改动的话就不用标出修改后的句子了。要按这样的要求，中英文夹杂，重要的地方或者修改的地方用英文，其他用中文。审稿意见中的旁白，也就是不加引号的部分，用中文表述。 
+这是模板：原句： The liquid crystal optical phased array (LC-OPA) is a promising beam-steering technology for LIDAR and free-space optical communications, offering high beam-steering accuracy, no moving parts, and low power consumption.
+审稿意见： 建议将“high beam-steering accuracy”改为“high steering accuracy”，并将“no moving parts”替换为更正式的“the absence of moving parts”，以提高用词准确性和正式性。
+修改后版本： The liquid crystal optical phased array (LC-OPA) is a promising beam-steering technology for LIDAR and free-space optical communications, offering high steering accuracy, the absence of moving parts, and low power consumption.
+
+步骤2：检查语言
+请扮演一位顶级光学期刊的资深编辑或审稿人。我的主要目标是全面提升以下科学论文的语言和表述质量。请专注于语言、风格和逻辑，确保不改变原文的核心科学含义、数据和结果。请确保语言风格符合严谨、正式的学术风格，并使用美式英语。请在修改时重点关注以下方面：语言精确性: 使用最准确、专业的术语；避免模糊或含糊不清的表达。清晰度与简洁性: 确保句子结构清晰，易于理解；删除冗余词语或表达，使行文简洁流畅。逻辑流畅性: 检查并改善句子之间、段落之间的逻辑连接和过渡。学术语气与正式度: 保持客观、中立的学术语气，避免口语化或非正式表达。术语与格式一致性等一切细节问题: 确保全文关键术语的使用、单位使用保持一致。语法与句法: 修正所有语法、拼写和标点错误。要按这样的要求，中英文夹杂，重要的地方或者修改的地方用英文，其他用中文。审稿意见中的旁白，也就是不加引号的部分，用中文表述。再修改后的地方标黑，方便我清楚的看到修改了哪里。不需要纠正连字符问题，其实我打了但是你看不到. 数据一致性和物理推理进行验证并指出可能存在的问题. 对于那些重复的问题，一次指出即可，不必多次指出。无需改动的话就不用标出修改后的句子了。不要只关注于单独句子的问题，而是要总览上下文，从总体找出存在的问题。确保完全符合SCI期刊要求。
+这是模板：原句： The liquid crystal optical phased array (LC-OPA) is a promising beam-steering technology for LIDAR and free-space optical communications, offering high beam-steering accuracy, no moving parts, and low power consumption.
+审稿意见： 建议将“high beam-steering accuracy”改为“high steering accuracy”，并将“no moving parts”替换为更正式的“the absence of moving parts”，以提高用词准确性和正式性。
+修改后版本： The liquid crystal optical phased array (LC-OPA) is a promising beam-steering technology for LIDAR and free-space optical communications, offering high steering accuracy, the absence of moving parts, and low power consumption.
+
+
+
+
+
+
+
+
+
+o1pro 润色prompt：
+1.	 
+我将提供一份学术论文的 引言 部分，以专业审稿人的身份，全面提出改进建议，并以高端光学期刊的写作风格进行润色，使其符合专业 SCI论文的写作要求。从以下方面（及我未提到的其他关键方面）进行润色：1.段落结构是否清晰、顺序是否合理。2.语言准确性与专业性：在不大幅改动原意的前提下，提升用词、句式的准确性与学术水准。3.可读性和逻辑：增强整篇文章的连贯性和可读性，明确段落及章节间的过渡衔接。4.专业性，检查专业术语与缩写的一致性，评估论点和结论的合理性，检查逻辑漏洞。5.图表和数据（如有）：若草稿中包含图表或数据，请审阅其准确性和解释的充分性，并提出改进意见。润色时，不要照搬你的知识库。仅基于草稿和我的需求进行改写或提出具体改进。6.修改标记：请用加粗标记出新增或修改的文字。使用删除线标记删除的文字。7.不要删掉其中的重要内容，除非你删除的内容真的对我的观点没有作用。8.检查有没有。在末尾提供一份合并后的完整修改版本：
+
+GPT-4：语言表达与术语润色 Prompt
+在完成 O1 Pro 的逻辑/结构审阅并根据其建议进行初步修改后，可将修订后的文稿交给 GPT-4 进行语言润色。下面是一些可用于“语言层面精修”的 prompt 示例。
+1.	专业学术语言润色
+系统提示（可选）：
+你是一位具有英美学术背景的专业语言编辑，熟悉学术期刊对稿件的语言要求。你的目标是保证文本在学术严谨度、行文逻辑和专业术语使用上与国际高水平期刊接轨，同时确保表达流畅、易读且不改变原意。
+用户提示：
+请你对以下经过逻辑校对后的内容进行语言润色。具体需求：
+1.	保留文章的核心论点和逻辑。
+2.	优化句式，使表达更加准确、流畅，避免重复或冗余。使整个文章更易读，减少长句嵌套；
+3.	统一专业术语、缩写、大小写；如有概念解释不清，可做适度改写以增强可读性。
+4.	避免大幅度改写原意，但若原文语句晦涩，可适度调整。
+文本内容：
+
+2.面向特定期刊/读者的语言风格微调
+用户提示：
+下文是一篇准备投往《Journal of Photonic Research》的稿件，由于该期刊读者多为光学通信领域研究人员，请你在润色时：
+•	确保专有名词和光学通信领域常用表达方式准确无误；
+•	用词、句式风格符合该领域的学术期刊规范，适度使用被动语态等专业表达；
+•	不要大幅改变原文句子顺序，只在语气和词汇上优化即可。
+待润色文章：
+
+
+
+
+
+
+1.	Below is a paragraph from an academic paper. Polish the writing to meet the academic style, improve the spelling, grammar, clarity, concision，logic and overall readability. When necessary, rewrite the whole sentence. Furthermore, list all modification and explain the reasons to do so in markdown table. Paragraph:
+润色时，不要照搬你的知识库中的吧。我希望你告诉我上段对话的版本修改了哪里，可以进行标粗，删掉的地方画线，并在末尾给出全部修改版
+
+下面是一篇学术论文中的一个段落。润色文章，使其符合学术风格，改进拼写、语法、清晰度、简洁性、逻辑性和整体可读性。必要时，重写全句。此外，列出所有修改，并在下表中说明修改的原因。段落 ：
+
+
+1.	整合版：As a Chinese academic paper writing improvement assistant, your task is to improve the spelling, grammar, clarity, conciseness and overall readability of the text provided, while breaking down long sentences, reducing repetition, and providing improvement suggestions. I am writing a paper for a prestigious academic journal. I have expressed these sentences sin the following section. Please translate them into English for me, and please reword them so that the text is clear, coherent, concise, and make sure that they flow smoothly from paragraph to paragraph. Remove jargon. Use a professional tone.
+
+
+
+
+2.	I am writing a paper for a prestigious academic journal. I have expressed these sentences sin the following section. Please translate them into English for me, and please reword them so that the text is clear, coherent, concise, and make sure that they flow smoothly from paragraph to paragraph. Remove jargon. Use a professional tone.
+ and provide me with the results in tabular form, with the original text in the first column and the embellished results followed in the second column
+我正在为一家著名的学术期刊撰写论文。我在以下部分表达了这些句子。请为我翻译成英文，并重新措辞以使文本清晰、连贯、简洁，并确保它们从一段流畅地过渡到另一段。删除行话。使用专业语气，并以表格形式提供给我结果，原始文本放在第一列，修饰后的结果放在第二列。
+3.	As a Chinese academic paper writing improvement assistant, your task is to improve the spelling, grammar, clarity, conciseness and overall readability of the text provided, while breaking down long sentences, reducing repetition, and providing improvement suggestions. 
+The first column is the origin a sentence, and the second column is these ntence after editing and the third column provides explanation in Chinese. Please edit the following text:
+作为一名中国学术论文写作改进助手，你的任务是改进所提供的文本的拼写、语法、清晰度、简洁性和整体可读性，同时分解长句，减少重复，并提供改进建议。第一栏是原句，第二栏是编辑后的句子，第三栏提供中文解释。请编辑以下文字：
+3. I am writing a paper for a prestigious academic journal. I have expressed these sentences in the following section. Please translate them into English for me, and reword them so that the text is clear, coherent, concise, and flows smoothly from paragraph to paragraph. Remove jargon, use a professional tone, and provide the results in tabular form, with the original text in the first column and the enhanced version in the second column.
+我正在为一家享有盛誉的学术期刊写一篇文章。我在以下部分表达了这些句子。请把它们翻译成英文，并重新措辞，使文本清晰、连贯、简洁，并确保它们从一段流畅地过渡到另一段。删除行话。使用专业语气，并以表格形式向我提供结果，原始文本放在第一列，修饰后的结果放在第二列。
+
